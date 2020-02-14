@@ -8,8 +8,7 @@ public class Loader {
     private static MainGUI mainGUI;
 
     public static void main(String[] args) {
-        //UIManager.setLookAndFeel(UIManager.);
-
+        
         frame.setLayout(new BorderLayout());
         mainGUI = new MainGUI();
         ////////////////////////////////////
