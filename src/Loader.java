@@ -97,7 +97,8 @@ public class Loader {
 
         return other;
     }
-
+    
+    //Контроль состояния кнопки сохранить
     static void setSaveEnabled(boolean b) {
         save.setEnabled(b);
     }
